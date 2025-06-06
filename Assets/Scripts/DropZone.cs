@@ -1,0 +1,1 @@
+Drop crate scoring logic
